@@ -27,8 +27,6 @@ A **linked list** is a linear data structure where each element (node) contains 
   
 ![Linked List Data Str](https://github.com/user-attachments/assets/f4f6e312-7e3f-442a-a6bc-339ae09509a8)
 
-![Linked List Operatio](https://github.com/user-attachments/assets/88aa4f94-cd37-4efe-9d8c-7fd269eff503)
-
 
 ---
 
@@ -41,6 +39,8 @@ A **linked list** is a linear data structure where each element (node) contains 
 | **Circular Linked List**      | The last node points back to the head, forming a circular structure.        |
 | **Circular Doubly Linked List** | Combines circular and doubly linked features for bidirectional looping.     |
 
+
+![Linked List Operatio](https://github.com/user-attachments/assets/88aa4f94-cd37-4efe-9d8c-7fd269eff503)
 ---
 
 ### 🔁 Linked List vs Array
