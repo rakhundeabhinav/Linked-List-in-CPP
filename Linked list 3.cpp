@@ -1,3 +1,6 @@
+//Abhinav Rakhunde
+//PRN:24070123001
+
 #include<iostream>
 using namespace std;
 
@@ -34,4 +37,11 @@ int main() {
     insert_head(head, 35);
     display(head);
     return 0;
+
 }
+
+/* OUTPUT:
+10->
+20->10->
+30->20->10->
+    */
