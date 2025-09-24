@@ -1,3 +1,6 @@
+//Abhinav Rakhunde
+//PRN:24070123001
+
 #include<iostream>
 using namespace std;
 
@@ -16,4 +19,9 @@ int main(){
     Node* head = new Node(10);
     cout<<head->val<<" "<<head->next;
     return 0;
+
 }
+
+/* OUTPUT:
+10 0
+*/
